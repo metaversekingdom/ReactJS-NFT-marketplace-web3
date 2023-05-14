@@ -5,13 +5,13 @@
 Reactjs And Smart Contracts Open Source Basic Nft Marketplace App
 
 > ## ⭐ Support Us
-> If you like our project, do not forget to give stars. So we can get more attention and get more support from the community. Don't underestimate one star, one  star you give will convince others to give the project another star.
+> If you appreciate my project, please consider giving us a star rating. Your support will help us gain further recognition and attract more attention from the community. Even a single star can make a difference, as it can encourage others to also rate our project positively. Thank you for your support!
 
 
 ## 💪 Motivation
 
 <p>
-I aim to create an open and safe nft marketplace for everyone. This will be a challenge for both me and the contributors. Together we will create an open source, reliable and beautiful nft marketplace example. The purpose of this project is not to operate an nft marketplace, but to create a template for nft marketplaces. Thus, many nft marketplaces can be easily created by forking and modifying this template. This will be beneficial for us to support the artists. We can only succeed in the world by coming from different areas and joining our forces.
+I aim to create an open and safe NFT marketplace that is accessible to everyone. This will be a challenging task for both myself and the contributors involved, but through our collective efforts, we can develop an open-source, reliable, and visually appealing NFT marketplace that serves as a model for others to emulate. While our goal is not to operate an NFT marketplace ourselves, we hope to provide a template that can be easily forked and customized by others, ultimately benefiting artists and creators in the process. By pooling our skills and resources from diverse backgrounds, we can succeed in building a better world.
 </p>
 
 ## 🖥️ Screenshoots 
@@ -55,15 +55,6 @@ In the project directory, you can run:
 ### `npm install (for first running)`
 ### `npm start`
 
-
-## 🗞️ Docs
- - [Base Components](https://github.com/yessGlory17/nft-marketplace/blob/main/docs/design/BaseComponents.md)
-
-## 🤝 Contribute
-If you want to contribute to this project, simply follow the steps in the contribution guide. I look forward to your contributions. 😊
-[CONTRIBUTING.md](https://github.com/yessGlory17/nft-marketplace/blob/main/CONTRIBUTING.md)
-
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -74,11 +65,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/GehadSalemFekry"><img src="https://avatars.githubusercontent.com/u/57755639?v=4?s=100" width="100px;" alt="Gehad Salem Fekry"/><br /><sub><b>Gehad Salem Fekry</b></sub></a><br /><a href="#content-GehadSalemFekry" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/digambar-t7"><img src="https://avatars.githubusercontent.com/u/92970968?v=4?s=100" width="100px;" alt="Digambar Tupurwadi"/><br /><sub><b>Digambar Tupurwadi</b></sub></a><br /><a href="https://github.com/yessGlory17/nft-marketplace/issues?q=author%3Adigambar-t7" title="Bug reports">🐛</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/burakkaraceylan"><img src="https://avatars.githubusercontent.com/u/84451726?v=4?s=100" width="100px;" alt="burakkaraceylan"/><br /><sub><b>burakkaraceylan</b></sub></a><br /><a href="https://github.com/yessGlory17/nft-marketplace/commits?author=burakkaraceylan" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://bandism.net/"><img src="https://avatars.githubusercontent.com/u/22633385?v=4?s=100" width="100px;" alt="Ikko Ashimine"/><br /><sub><b>Ikko Ashimine</b></sub></a><br /><a href="#content-eltociear" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Vansh-Baghel"><img src="https://avatars.githubusercontent.com/u/103327712?v=4?s=100" width="100px;" alt="Vansh Baghel"/><br /><sub><b>Vansh Baghel</b></sub></a><br /><a href="https://github.com/yessGlory17/nft-marketplace/commits?author=Vansh-Baghel" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/metaversekingdom"><img src="https://drive.google.com/file/d/1jBOdkpU7StjM7gxZtNHWaxjkXTRxOMTP/view?usp=share_link" width="100px;" alt="Gehad Salem Fekry"/><br /><sub><b>Ryosuke Matsumoto</b></sub></a><br /><a href="#content-GehadSalemFekry" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
@@ -88,4 +75,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
